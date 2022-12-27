@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shdwofmm&label=Profile%20views&color=0e75b6&style=flat" alt="shdwofmm" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shdwofmm&label=Profile%20views&color=0e75b6&style=flat&color=green" alt="shdwofmm" /> </p>
 
 - 🌱 I’m currently learning **JavaScript, React**
 
